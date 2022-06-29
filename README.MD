@@ -1,4 +1,4 @@
-# Particele system using java and javaFX
+# Watch Your Step, there is BOMB! here
 ### Guid
 a simple project to demonstrate a particle effect using java
 
